@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, Mi nombre es Oriol Mercadal Maso</h1>
-<h3 align="center">Soy un apasionado desarrollador con más de 3 años de experiencia como Desarrollador de Software. A través de la colaboración con un equipo multidisciplinar y de la utilización de metodologías ágiles, he contribuido al desarrollo de un software de gestión integral (ERP) para clientes tales como Dia, Servihabitat, Building Center, Desigual, así como otros clientes líderes en su sector. Participé en la resolución de errores y la integración de nuevas funcionalidades, incluyendo la creación de interfaces personalizadas con automatismos.</h3>
+<!---<h3 align="center"></h3>--->
+<p align="left">Soy un apasionado desarrollador con más de 3 años de experiencia como Desarrollador de Software. A través de la colaboración con un equipo multidisciplinar y de la utilización de metodologías ágiles, he contribuido al desarrollo de un software de gestión integral (ERP) para clientes tales como Dia, Servihabitat, Building Center, Desigual, así como otros clientes líderes en su sector. Participé en la resolución de errores y la integración de nuevas funcionalidades, incluyendo la creación de interfaces personalizadas con automatismos.</p>p
 
 - 💬Ask me about **Java, Python y SQl**
 
